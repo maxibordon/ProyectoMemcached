@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoMemcached", "ProyectoMemcached\ProyectoMemcached.csproj", "{BC34D5F6-5FCE-46D9-9F63-7F386052F5DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC34D5F6-5FCE-46D9-9F63-7F386052F5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC34D5F6-5FCE-46D9-9F63-7F386052F5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC34D5F6-5FCE-46D9-9F63-7F386052F5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC34D5F6-5FCE-46D9-9F63-7F386052F5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7014757D-41B8-4710-AD16-BE7F169A9E55}
+	EndGlobalSection
+EndGlobal
